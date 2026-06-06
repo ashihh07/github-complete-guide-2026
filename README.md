@@ -22,7 +22,9 @@ This guide was created and organized by Ashik A using personal learning, officia
 
 ## Author
 
-Ashik A
+Author: Ashik A
+
+This guide was created, organized, refined, and designed by Ashik A using GitHub documentation, industry best practices, publicly available learning resources, and AI-assisted research.
 
 GitHub:
 https://github.com/ashihh07

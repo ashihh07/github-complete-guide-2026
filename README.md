@@ -12,9 +12,7 @@ A beginner-friendly GitHub handbook covering:
 
 ## Download Guide
 
-The complete guide is available in:
-
-GitHub_Complete_Guide_2026.pdf
+📖 [Download the GitHub Complete Guide PDF](./GitHub_Complete_Guide_2026.pdf)
 
 ## About This Project
 
